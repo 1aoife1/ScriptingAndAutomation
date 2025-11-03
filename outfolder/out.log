@@ -1,0 +1,58 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Flow Control.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop","Flow Control.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Flow Control.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Flow Control","System.Collections.Generic.List`1[System.String]",,"Flow Control.ps1","747","C:\Users\champuser\Desktop","C:\Users\champuser\Desktop","False","True","C:\Users\champuser\Desktop\Flow Control.ps1",".ps1","9/8/2025 10:21:40 AM","9/8/2025 2:21:40 PM","9/8/2025 11:59:43 AM","9/8/2025 3:59:43 PM","9/8/2025 11:59:43 AM","9/8/2025 3:59:43 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Untitled1.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop","Untitled1.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Untitled1.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Untitled1","System.Collections.Generic.List`1[System.String]",,"Untitled1.ps1","181","C:\Users\champuser\Desktop","C:\Users\champuser\Desktop","False","True","C:\Users\champuser\Desktop\Untitled1.ps1",".ps1","9/12/2025 10:36:10 PM","9/13/2025 2:36:10 AM","9/12/2025 10:36:10 PM","9/13/2025 2:36:10 AM","9/12/2025 10:36:10 PM","9/13/2025 2:36:10 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Untitled2.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop","Untitled2.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Untitled2.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Untitled2","System.Collections.Generic.List`1[System.String]",,"Untitled2.ps1","182","C:\Users\champuser\Desktop","C:\Users\champuser\Desktop","False","True","C:\Users\champuser\Desktop\Untitled2.ps1",".ps1","9/12/2025 10:38:27 PM","9/13/2025 2:38:27 AM","9/12/2025 10:38:27 PM","9/13/2025 2:38:27 AM","9/12/2025 10:38:27 PM","9/13/2025 2:38:27 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Untitled3.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop","Untitled3.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Untitled3.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Untitled3","System.Collections.Generic.List`1[System.String]",,"Untitled3.ps1","216","C:\Users\champuser\Desktop","C:\Users\champuser\Desktop","False","True","C:\Users\champuser\Desktop\Untitled3.ps1",".ps1","9/12/2025 10:41:10 PM","9/13/2025 2:41:10 AM","9/12/2025 10:41:10 PM","9/13/2025 2:41:10 AM","9/12/2025 10:41:10 PM","9/13/2025 2:41:10 AM","Archive"
